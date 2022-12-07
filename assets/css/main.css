@@ -4031,12 +4031,12 @@ input, select, textarea {
 
 		#footer .inner form {
 			margin: 0 3em 0 0;
-			width: calc(50% - 1.5em);
+			width: 100%;
 		}
 
 		#footer .inner .contact {
 			
-			width: calc(80% - 1.5em);
+			width: 100%;
 
 		}
 
